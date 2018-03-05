@@ -9,7 +9,7 @@
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.17",
     "extract-loader": "^1.0.1",
-    "file-loader": "^1.1.5",
+    "file-loader": "1.1.7",
     "html-loader": "^0.5.1",
     "webpack": "^3.8.1"
   }
