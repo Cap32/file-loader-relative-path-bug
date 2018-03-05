@@ -1,6 +1,6 @@
 # file-loader-relative-path-bug
 
-This repo shows some bugs in [file-loader](https://github.com/webpack-contrib/file-loader) when `useRelativePath: true`.
+This repo shows some bugs in [file-loader](https://github.com/webpack-contrib/file-loader) when `useRelativePath` is `true` and `context` is not setted (using `issuer.context`).
 
 To run this repo, please clone this repo and run `npm install`, and then run `npm run build`.
 
